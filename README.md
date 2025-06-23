@@ -12,5 +12,5 @@ This project involves preprocessing the Titanic dataset to make it suitable for 
 Google Colab
 
 ### Output File
-`cleaned_titanic.csv`
+cleaned_titanic.csv
 
